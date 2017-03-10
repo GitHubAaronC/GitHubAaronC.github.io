@@ -12,4 +12,4 @@ Etiam ut quam non eros sodales porttitor. Nullam congue risus et nibh elementum 
 
 [Vitamin C](http://www.nhs.uk/Conditions/Scurvy/Pages/Prevention.aspx)
 
-[a relative link](publish_blog_post.md)
+[Blog Post](publish_blog_post.md)
