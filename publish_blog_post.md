@@ -1,5 +1,7 @@
 # GitHubAaronC.github.io
+<p align="center">
 # McPherson: How To Find A Correlation When There Isn’t One
+</p>
 
 Topics within the digital humanities are very intricate since connections can be made from various different ideas. However, there is a limit to the degree to which someone can skew their writing and make it seem like there is a correlation between topics when there isn’t one. In the case of McPherson, she tries very hard using many different literary techniques to prove her thesis but ultimately falls flat on her face when trying to do so. By having a very weak thesis, writing in a way as to put off the laymen from reading, and not utilizing data to back her ideas up, McPherson’s writing is not coercive and most definitely not accurate.  
 <br />
