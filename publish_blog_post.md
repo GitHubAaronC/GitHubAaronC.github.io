@@ -1,4 +1,3 @@
-# GitHubAaronC.github.io
 # McPherson: How To Find A Correlation When There Isn’t One
 
 
