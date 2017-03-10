@@ -16,4 +16,6 @@ Additionally, when analyzing McPherson’s writing in an empirical way it can be
 <br />
 ![](images/Voyant.png)
 <br />
+The data peaks in different areas for UNIX and race, and shows no discernable pattern.  
+<br />
 As such, I honestly believe McPherson’s writing is not at all accurate. This correlation between race and UNIX is completely unfounded and simply does not exist.   
