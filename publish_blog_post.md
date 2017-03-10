@@ -21,7 +21,7 @@ As such, I honestly believe McPherson’s writing is not at all accurate. This c
 <br />
 <br />
 <br />
-Works Cited
+<b>Works CitedM</b>
 
 
 Jackson, Linda A., et al. "Race, gender, and information technology use: the new digital divide." CyberPsychology & Behavior 11.4 (2008): 437-442.  
