@@ -14,6 +14,6 @@ As well, her writing deserves even less credence because of her lack of actual d
 <br />
 Additionally, when analyzing McPherson’s writing in an empirical way it can be shown that there is no correlation between UNIX and race in the structure of her writing.  
 <br />
-![](images/Orange-Whole-&-Split.jpg)
+![](images/Voyant.png)
 <br />
 As such, I honestly believe McPherson’s writing is not at all accurate. This correlation between race and UNIX is completely unfounded and simply does not exist.   
