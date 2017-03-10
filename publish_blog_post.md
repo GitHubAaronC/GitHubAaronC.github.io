@@ -29,4 +29,4 @@ Jackson, Linda A., et al. "Race, gender, and information technology use: the new
 McPherson, Tara. "Why are the digital humanities so white? Or thinking the histories of race and computation." Debates in the digital humanities (2012): 139-160.  
 
 Moretti, Franco. Graphs, maps, trees: abstract models for a literary history. Verso, 2005.
-
+ 
