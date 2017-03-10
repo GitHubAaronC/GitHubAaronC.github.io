@@ -17,4 +17,16 @@ Additionally, when analyzing McPherson’s writing in an empirical way it can be
 <br />
 The data peaks in different areas for UNIX and race, and shows no discernable pattern.  
 <br />
-As such, I honestly believe McPherson’s writing is not at all accurate. This correlation between race and UNIX is completely unfounded and simply does not exist.   
+As such, I honestly believe McPherson’s writing is not at all accurate. This correlation between race and UNIX is completely unfounded and simply does not exist.  
+<br />
+<br />
+<br />
+Works Cited
+
+
+Jackson, Linda A., et al. "Race, gender, and information technology use: the new digital divide." CyberPsychology & Behavior 11.4 (2008): 437-442.  
+
+McPherson, Tara. "Why are the digital humanities so white? Or thinking the histories of race and computation." Debates in the digital humanities (2012): 139-160.  
+
+Moretti, Franco. Graphs, maps, trees: abstract models for a literary history. Verso, 2005.
+
