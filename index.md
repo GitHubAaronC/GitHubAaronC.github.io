@@ -8,4 +8,4 @@ Within the course 2P02 I created a blog post explaining the problems with McPher
 
 [Blog Post](publish_blog_post.md)
 
-[Solo Presentation](reveal/index.html)
+[Solo Presentation](reveal_working/index.html)
