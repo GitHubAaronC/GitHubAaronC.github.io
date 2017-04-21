@@ -39,6 +39,18 @@ By diving deep into the minutia of detail about record players, I have extended 
 
 ### Collaborative Project
 
+**Project Description**
+
+My team and I underwent demonstrating the applications and the steps to use Palladio. As a tool, Palladio allows users to produce professionally looking data visualizations such as maps, tables, graphs, etc. When producing the demonstration we created an excel spreadsheet containing various details regarding famous authors. By using Palladio we were able to show how the different details regarding the authors correlate with one another. The relations between place of death and place of birth could be shown, as well as differences between the ages of death for the authors.
+
+**Collaboration Statement**
+
+Collaborative scholarship involves working dynamically within a team of individuals. The project team should work as a fine-tuned machine in regards to overall workflow and time management. When undergoing the project, we assigned different sections of the site to be discussed as well as who will discuss the extra extraneous details. My role on the project was to demonstrate several of the features of Palladio to show how it would go about presenting data regarding details of famous authors. As a team, we discussed how we would go about presenting the information in a concise and efficient way. Ultimately we decided it would be best to include a live demonstration of Palladio in addition to our PowerPoint presentation.
+
+As such, my role for certain sections of the power point was to briefly explain what we were going to talking about during out live presentation. Additionally, I providing images from the software for the audience to remember and associate what was being discussed during the power point with the demonstration.
+
+Over the development stages of the project we greatly benefited from designing the PowerPoint using the collaborative tool, Google Slides. By being able to see changes done to the presentation in real-time, we were able to provide feedback for one another about what information should be presented as well as how the slides should be designed. Everyone had their own sections to work on, but by being able to all work on the same file at once allowed us to come together as a team to provide a coherent presentation deliverable.
+
 ### Research Presentation
 
 [The Importance of the Record Player](reveal_working/presentation2.html)
