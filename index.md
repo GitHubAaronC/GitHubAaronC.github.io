@@ -15,7 +15,7 @@ What I hope to do going forward is by working with Youtubers and Twitch Streamer
 
 ### The Importance of the Record Player
 
-![](images/analysis.jpg)
+![](images/record.gif)
 
 **Abstract**
 
