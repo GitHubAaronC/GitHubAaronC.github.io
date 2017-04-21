@@ -1,5 +1,6 @@
-# GitHubAaronC.github.io
-# Aaron Coomber
+# IASC 2P02 | Aaron Coomber
+
+## Bio
 
 I am a 3rd year student currently within the 2nd year of the Interactive Arts and Science program.  
 
