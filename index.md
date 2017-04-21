@@ -13,11 +13,18 @@ What I hope to do going forward is by working with Youtubers and Twitch Streamer
 
 ### Featured Project
 
-### McPherson: How To Find A Correlation When There Isn’t One
+### The Importance of the Record Player
 
 ![](images/analysis.jpg)
 
 **Abstract**
+
+Music today is defined by the popularity and success of the record player. By allowing artists to reach a wider array of audiences around the world, the record player becomes synonymous with the printing press in regards to its impact on global culture.
+When designing the presentation the goal was to outline how the record player is not a relic of the past, but instead the godfather of modern music playing capabilities that is having a sudden resurgence in the past years. As well, the inclusion of the comparison between analog and digital sound waves was paramount to drive home the point that digitally produced music is not objectively better than analog.
+
+Over the course of designing the presentation, details about how important the record player and analog format music was shown. Within the 50s to early 80s the record player hit its tallest stride in popularizing different genres of music in different areas of the world. By being able to reach audiences globally, music bands were able to skyrocket in popularity and become wildly successful household names.
+
+It is important to always remember the contributions of media from the past. After the switch to tapes, then CDs, then purely digital, the success of globally accessible music relies on the record player.
 
 
 
