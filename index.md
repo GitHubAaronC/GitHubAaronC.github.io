@@ -15,6 +15,9 @@ What I hope to do going forward is by working with Youtubers and Twitch Streamer
 
 ### McPherson: How To Find A Correlation When There Isn’t One
 
+![](images/analysis.jpg)
+
+
 [Blog Post](publish_blog_post.md)
 
 [Solo Presentation](reveal_working/presentation.html)
