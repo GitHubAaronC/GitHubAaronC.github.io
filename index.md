@@ -2,6 +2,8 @@
 
 ## Bio
 
+![](images/bio.png)
+
 I am a 3rd year student currently within the 2nd year of the Interactive Arts and Science program.  
 
 Within the course 2P02 I created a blog post explaining the problems with McPherson's article: 
