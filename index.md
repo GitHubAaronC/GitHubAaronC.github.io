@@ -11,9 +11,9 @@ Throughout IASC 2P02 I’ve had the opportunity working with Google Trends as we
 What I hope to do going forward is by working with Youtubers and Twitch Streamers to help grow their platforms by analyzing Google Trends and presenting my findings using a tool like Palladio. By analyzing patterns in internet searches and by seeing the trends of different things going viral, I will be able to help guide my clients to follow those trends and develop their platforms further.
 
 
+### Featured Project
 
-Within the course 2P02 I created a blog post explaining the problems with McPherson's article: 
-<i>Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation</i>
+### McPherson: How To Find A Correlation When There Isn’t One
 
 [Blog Post](publish_blog_post.md)
 
