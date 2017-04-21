@@ -37,4 +37,4 @@ By diving deep into the minutia of detail about record players, I have extended 
 
 [Blog Post](publish_blog_post.md)
 
-[Solo Presentation](reveal_working/presentation.html)
+[Solo Presentation](reveal_working/presentation2.html)
