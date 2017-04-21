@@ -29,6 +29,12 @@ It is important to always remember the contributions of media from the past. Aft
 
 **Research Process**
 
+Before undergoing the task of developing this presentation I had very limited knowledge of the fine details about record players since I did not grow up with one. The CD Walkman was what I was first introduced to as a child in regards to devices that can play music. As such, I wanted to try to include as much as I could about how a record player actual works, this can be shown with the two animated slides about how a record gets played. Originally, I just had animations of records spinning on a record player but I later changed that to include the details about how miniscule the grooves are on a record.
+
+Continually, after receiving feedback about trying to include more details about media archeology I had to determine the best way to include that information without interrupting the previously established flow of slides. What I decided upon doing was changing the second slide about the Beatles. Previously, the slide would discuss the reasoning behind their massive popularity can be somewhat associated with the accessibility of records. In the latest version of the slide, it discusses that as a continuation of their popularity with records, the Beatles are still top sellers on ITunes and are streamed continuously on Spotify.  By analyzing the past, it is shown that the trend of popularity of a band such as the Beatles does not dwindle as they have dominated new media platforms for decades.
+
+By diving deep into the minutia of detail about record players, I have extended my knowledge on the history of music. The slow transfer from being analog-based to digital-based caused much upheaval in musical communities, but that is what ultimately happened.
+
 [Blog Post](publish_blog_post.md)
 
 [Solo Presentation](reveal_working/presentation.html)
