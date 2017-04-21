@@ -17,6 +17,9 @@ What I hope to do going forward is by working with Youtubers and Twitch Streamer
 
 ![](images/analysis.jpg)
 
+**Abstract**
+
+
 
 [Blog Post](publish_blog_post.md)
 
