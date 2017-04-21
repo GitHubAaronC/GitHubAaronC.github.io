@@ -47,9 +47,17 @@ My team and I underwent demonstrating the applications and the steps to use Pall
 
 Collaborative scholarship involves working dynamically within a team of individuals. The project team should work as a fine-tuned machine in regards to overall workflow and time management. When undergoing the project, we assigned different sections of the site to be discussed as well as who will discuss the extra extraneous details. My role on the project was to demonstrate several of the features of Palladio to show how it would go about presenting data regarding details of famous authors. As a team, we discussed how we would go about presenting the information in a concise and efficient way. Ultimately we decided it would be best to include a live demonstration of Palladio in addition to our PowerPoint presentation.
 
+![](images/palladio3.png)
+
 As such, my role for certain sections of the power point was to briefly explain what we were going to talking about during out live presentation. Additionally, I providing images from the software for the audience to remember and associate what was being discussed during the power point with the demonstration.
 
+![](images/palladio1.png)
+
 Over the development stages of the project we greatly benefited from designing the PowerPoint using the collaborative tool, Google Slides. By being able to see changes done to the presentation in real-time, we were able to provide feedback for one another about what information should be presented as well as how the slides should be designed. Everyone had their own sections to work on, but by being able to all work on the same file at once allowed us to come together as a team to provide a coherent presentation deliverable.
+
+![](images/palladio2.png)
+
+[Palladio](https://docs.google.com/presentation/d/1a0jso1aSNNPia4ZIeGlJufw79F4bDrGWeB_Xh2YfusY/pub?start=false&loop=false&delayms=3000)
 
 ### Research Presentation
 
@@ -57,5 +65,5 @@ Over the development stages of the project we greatly benefited from designing t
 
 ### Academic Blog
 
-[Blog Post](publish_blog_post.md)
+[Academic Blog](publish_blog_post.md)
 
