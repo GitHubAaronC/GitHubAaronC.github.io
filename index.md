@@ -27,7 +27,7 @@ Over the course of designing the presentation, details about how important the r
 
 It is important to always remember the contributions of media from the past. After the switch to tapes, then CDs, then purely digital, the success of globally accessible music relies on the record player.
 
-
+**Research Process**
 
 [Blog Post](publish_blog_post.md)
 
