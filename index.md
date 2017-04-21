@@ -65,5 +65,5 @@ Over the development stages of the project we greatly benefited from designing t
 
 ### Academic Blog
 
-[Academic Blog](publish_blog_post.md)
+[McPherson: How To Find A Correlation When There Isn’t One](publish_blog_post.md)
 
