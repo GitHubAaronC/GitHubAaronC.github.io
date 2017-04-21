@@ -35,8 +35,15 @@ Continually, after receiving feedback about trying to include more details about
 
 By diving deep into the minutia of detail about record players, I have extended my knowledge on the history of music. The slow transfer from being analog-based to digital-based caused much upheaval in musical communities, but that is what ultimately happened.
 
-[Research Presentation](reveal_working/presentation2.html)
+[The Importance of the Record Player](reveal_working/presentation2.html)
 
+### Collaborative Project
+
+### Research Presentation
+
+[The Importance of the Record Player](reveal_working/presentation2.html)
+
+### Academic Blog
 
 [Blog Post](publish_blog_post.md)
 
